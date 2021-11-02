@@ -18,8 +18,8 @@
         <li><a href="index.php?contact">Contactez-nous</a></li>
         
     </ul>
-    <ul class="actions stacked">
+   <!--<ul class="actions stacked">
         <li><a href="#" class="button fit primary">Get Started</a></li>
         <li><a href="#" class="button fit">Log In</a></li>
-    </ul>
+    </ul>-->
 </nav>

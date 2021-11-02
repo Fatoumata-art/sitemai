@@ -1,11 +1,11 @@
 <!-- Wrapper -->
 <div id="wrapper">
 
-<a href="index.html"><img src="images/logoo.jpg" alt="logo" /></a>
+<!--<a href="index.html"><img src="images/logoo.jpg" alt="logo" /></a>-->
 <!-- Intro -->
     <section id="intro" class="wrapper featured style1">
         <div class="inner">
-            <span class="image"><img src="images/entreprise.jpg" alt="" /></span>
+            <span class="image"><img src="images/logo.jpg" alt="" /></span>
             <div class="content">
                 <header>
                     <h1>Qui sommes-nous</h1>
@@ -15,7 +15,7 @@
                 </header>
                 <footer>
                     <ul class="actions">
-                        <li><a href="#" class="button big">Get Started</a></li>
+                        <li><a href="index.php?about.php" class="button big">En savoir plus</a></li>
                     </ul>
                 </footer>
             </div>
@@ -50,7 +50,7 @@
     <section class="wrapper style1 special">
         <div class="inner">
             <header>
-                <h2>Servicest</h2>
+                <h2>Services</h2>
                 <p>Rutrum facilisis. Class aptent taciti sociosqu<br />
                 litora torquent et conubia etiam nostra.</p>
             </header>

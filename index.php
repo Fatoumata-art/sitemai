@@ -4,12 +4,18 @@
 	pixelarity.com | hello@pixelarity.com
 	License: pixelarity.com/license
 -->
+<?php
+	include('connect/connect.php');
+
+?>
 <html>
 	<head>
-		<title>Untitled</title>
+		<title>site Mai</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/style.css" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		
 	</head>
 	<body class="is-preload">
 

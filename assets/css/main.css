@@ -370,15 +370,15 @@ input, select, textarea {
 	}
 
 	blockquote {
-		border-left-color: rgba(86, 86, 86, 0.25);
+		border-left-color: #565656;
 	}
 
 	hr {
-		border-bottom-color: rgba(86, 86, 86, 0.25);
+		border-bottom-color:#565656;
 	}
 
 	code {
-		background: rgba(86, 86, 86, 0.075);
+		background:#565656;
 	}
 
 /* Row */
@@ -1979,7 +1979,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: rgba(86, 86, 86, 0.075);
+			background-color: #565656;
 		}
 
 		input[type="submit"].primary,
@@ -1988,7 +1988,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #565656;
-			border-color: #565656;
+			border-color:#565656;
 			color: #ffffff !important;
 		}
 
@@ -1997,7 +1997,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: rgba(86, 86, 86, 0.075);
+				background-color: #565656;
 				color: inherit !important;
 			}
 
@@ -2247,7 +2247,7 @@ input, select, textarea {
 	select,
 	textarea {
 		background-color: #ffffff;
-		border-color: rgba(86, 86, 86, 0.25);
+		border-color: #565656;
 	}
 
 		input[type="text"]:focus,
@@ -3379,7 +3379,7 @@ input, select, textarea {
 					-ms-transition: width 0.2s ease, border-radius 0.2s ease, color 0.2s ease;
 					transition: width 0.2s ease, border-radius 0.2s ease, color 0.2s ease;
 					-webkit-tap-highlight-color: transparent;
-					background-color: rgba(73, 73, 73, 0.9);
+					background-color: #00c2b0;
 					border-radius: 100%;
 					color: #565656;
 					overflow: hidden;
@@ -3467,7 +3467,7 @@ input, select, textarea {
 /* Menu */
 
 	#menu {
-		background-color: #565656;
+		background-color: #ffffff;
 		color: #ffffff;
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -3504,15 +3504,15 @@ input, select, textarea {
 	}
 
 		#menu blockquote {
-			border-left-color: rgba(255, 255, 255, 0.25);
+			border-left-color: #00c2b0;
 		}
 
 		#menu hr {
-			border-bottom-color: rgba(255, 255, 255, 0.25);
+			border-bottom-color: #565656;
 		}
 
 		#menu code {
-			background: rgba(255, 255, 255, 0.075);
+			background: #00c2b0;
 		}
 
 		#menu input[type="submit"],
@@ -3528,7 +3528,7 @@ input, select, textarea {
 			#menu input[type="button"]:hover,
 			#menu button:hover,
 			#menu .button:hover {
-				background-color: rgba(255, 255, 255, 0.075);
+				background-color: #00c2b0;
 			}
 
 			#menu input[type="submit"].primary,
@@ -3546,7 +3546,7 @@ input, select, textarea {
 				#menu input[type="button"].primary:hover,
 				#menu button.primary:hover,
 				#menu .button.primary:hover {
-					background-color: rgba(255, 255, 255, 0.075);
+					background-color: #00c2b0;
 					color: inherit !important;
 				}
 
@@ -3563,7 +3563,7 @@ input, select, textarea {
 		#menu input[type="email"],
 		#menu select,
 		#menu textarea {
-			background-color: rgba(255, 255, 255, 0.075);
+			background-color: #00c2b0;
 			border-color: inherit;
 		}
 
@@ -3572,7 +3572,7 @@ input, select, textarea {
 			#menu input[type="email"]:focus,
 			#menu select:focus,
 			#menu textarea:focus {
-				background: rgba(255, 255, 255, 0.25);
+				background: #565656;
 				box-shadow: 0 0 0 1px #ffffff;
 			}
 
@@ -3647,7 +3647,7 @@ input, select, textarea {
 			right: 2em;
 			width: 3.75em;
 			height: 3.75em;
-			background-color: #565656;
+			background-color: #00c2b0;
 			border-radius: 100%;
 			z-index: -1;
 		}
